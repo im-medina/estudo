@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aqui está mais um arquivo
+=======
+Aqui está mais um arquivo
+>>>>>>> 8740f3ce520e5e1eabfdc04d77a1dff09d954e40
